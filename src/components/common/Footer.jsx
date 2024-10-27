@@ -10,9 +10,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Company Info */}
           <div className="space-y-4">
-            <div className="w-32 h-8 bg-white/10 rounded flex items-center justify-center">
-              Logo
-            </div>
+      
             <p className="text-sm text-orange-100">
               Discover and book the best events happening in your city.
             </p>
