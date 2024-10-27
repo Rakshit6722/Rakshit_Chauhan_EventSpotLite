@@ -51,4 +51,14 @@ A React-based web application that helps users discover and explore local events
 5. Click on any card to get detailed view of the event.
 
 ### Screenshots
+![EventSpot Lite Homepage](/images/ss1.png)
+![EventSpot Lite Homepage](/images/ss2.png)
+![EventSpot Lite Homepage](/images/ss3.png)
+![EventSpot Lite Homepage](/images/ss4.png)
+![EventSpot Lite Homepage](/images/ss5.png)
+![EventSpot Lite Homepage](/images/ss6.png)
+![EventSpot Lite Homepage](/images/ss7.png)
+![EventSpot Lite Homepage](/images/ss8.png)
+
+
 
