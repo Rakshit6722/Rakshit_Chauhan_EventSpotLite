@@ -25,7 +25,7 @@ const PopularCities = ({ onCitySelect }) => {
             <h2 className="text-xl text-center font-bold mb-2 text-orange-800">Popular Cities</h2>
         </div>
         
-        {/* Cities container - now forces horizontal alignment */}
+        {/* Cities container */}
         <div className="flex gap-6 overflow-x-auto overflow-y-hidden">
             {popularCities.map((city) => (
                 <CityCard
