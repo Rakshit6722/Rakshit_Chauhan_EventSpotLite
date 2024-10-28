@@ -79,7 +79,7 @@ const EventPage = () => {
                             style={{ opacity: isVideoLoaded ? 1 : 0 }}
                             onLoadedData={() => setIsVideoLoaded(true)}
                         />
-                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="absolute inset-0 bg-black opacity-50"></div>
                         <div className="absolute inset-0 flex flex-col justify-center items-center text-center text-white">
                             <h1 className="text-4xl font-bold mb-4">Events in {city}</h1>
                             <p className="text-orange-200 text-lg">
