@@ -58,7 +58,7 @@ const Form = () => {
         <h2 className="text-2xl font-bold text-orange-800 mb-2">Find Events Near You</h2>
         <p className="text-orange-600 mb-6 text-sm">Discover amazing events happening in your city</p>
 
-        {/* form to take input of user city */}
+
         <form onSubmit={handleSubmit} className="space-y-4">
           <div className="space-y-2">
             <label
